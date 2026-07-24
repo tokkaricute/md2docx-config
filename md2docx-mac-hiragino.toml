@@ -1,0 +1,54 @@
+[fonts]
+body_ja = "ヒラギノ明朝 ProN"
+body_en = "ヒラギノ明朝 Pro"
+heading_ja = "ヒラギノ角ゴシック"
+heading_en = "ヒラギノ角ゴシック"
+
+[sizes]                     # 単位: pt
+body = 10.5
+table_body = 9.5
+table_header = 9.5
+heading1 = 14.0
+heading2 = 12.0
+heading3 = 11.0
+heading4 = 11.0
+heading5 = 10.5
+
+[page]                      # 単位: twip
+width = 11906
+height = 16838
+margin_top = 1985
+margin_right = 1701
+margin_bottom = 1701
+margin_left = 1701
+margin_header = 851
+margin_footer = 992
+margin_gutter = 0
+
+[indent]                    # 単位: twip (1 twip = 1/20 pt, 210 twip ≒ 全角1文字)
+body_left = 210
+body_first_line = 210
+body_right = 210
+body_left_chars = 100
+heading1_left = 420
+heading1_hanging = 420
+heading2_left = 612
+heading2_hanging = 612
+heading3_left = 783
+heading3_hanging = 783
+heading4_left = 709
+heading4_hanging = 709
+heading5_left = 709
+heading5_hanging = 709
+heading6_left = 709
+heading6_hanging = 709
+
+[bullet]
+# 例: ●, ■, ▲
+level0 = "-"
+level1 = "-"
+level2 = "-"
+
+[numbering]
+figure_format = "chapter"    # 図番号の形式（sequential / chapter）
+table_format = "chapter"     # 表番号の形式（sequential / chapter）
